@@ -1,3 +1,3 @@
 # hello-world
 
-Hi I am Natasha Fetty
+Hi I am Natasha
